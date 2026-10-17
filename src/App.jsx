@@ -15,6 +15,7 @@ export default function App() {
   return (
     <main>
       <h1>Sprint 1 Team Tasks</h1>
+      <p>Plan the sprint together.</p>
 
       <form onSubmit={addTask}>
         <input
