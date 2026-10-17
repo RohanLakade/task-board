@@ -14,7 +14,7 @@ export default function App() {
 
   return (
     <main>
-      <h1>Team Task Board</h1>
+      <h1>Sprint 1 Task Board</h1>
       <form onSubmit={addTask}>
         <input
           value={title}
